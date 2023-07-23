@@ -1,12 +1,21 @@
-# muslim_app_2
+# muslim_app
 
-A new Flutter project.
+A new Flutter islamic application 
 
-## Getting Started
+- help muslim users to know prayer times
+- read quran any time they want 
+- this app have prophets' stories
+- this app have all azkar types
+- this app have Al-Nawawi's Hadiths
+- this app have asmaa allah alhosna
+- this app have misbaha and compass for qibla direction
 
-This project is a starting point for a Flutter application.
+Technology used in this app :
 
-A few resources to get you started if this is your first Flutter project:
+- MVVM
+- sqflite
+- Api (Dio)
+- Statemanagment (Provider)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
