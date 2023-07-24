@@ -1,3 +1,5 @@
+
+https://github.com/MaiElhady55/Muslim-App/assets/122188401/0caacc1f-2514-45c2-b51e-2d9c725edf91
 # muslim_app
 
 A new Flutter islamic application 
@@ -21,7 +23,12 @@ A new Flutter islamic application
 
 # video
 
-Uploading Muslim vedio.mp4…
+Uploading Mus
+
+https://github.com/MaiElhady55/Muslim-App/assets/122188401/b1600afd-af3f-4342-be0d-a1d97320b4d2
+
+
+lim vedio.mp4…
 
 
 
